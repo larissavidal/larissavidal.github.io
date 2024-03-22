@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/larissa-vidal/static/css/main.1712c1fe.css",
+    "main.js": "/larissa-vidal/static/js/main.85bf2f30.js",
+    "static/js/453.a3fab702.chunk.js": "/larissa-vidal/static/js/453.a3fab702.chunk.js",
+    "static/media/background.jpg": "/larissa-vidal/static/media/background.28e551b1d8b96eebb9c2.jpg",
+    "static/media/RubikGlitch-Regular.ttf": "/larissa-vidal/static/media/RubikGlitch-Regular.c45582ca18588f33422e.ttf",
+    "static/media/principal-pic.jpeg": "/larissa-vidal/static/media/principal-pic.a1f6765934f483f9655c.jpeg",
+    "static/media/react.png": "/larissa-vidal/static/media/react.8a6fc0a24a800d1e0f4a.png",
+    "static/media/Kanit-Regular.ttf": "/larissa-vidal/static/media/Kanit-Regular.f3bae13d78ced30b6ea3.ttf",
+    "static/media/gmail.png": "/larissa-vidal/static/media/gmail.54be8df7504fbe3c8ede.png",
+    "static/media/typescript.png": "/larissa-vidal/static/media/typescript.1e3902edbe4c3f2970d8.png",
+    "static/media/java.png": "/larissa-vidal/static/media/java.66d5a4fef00821dfe115.png",
+    "static/media/node.png": "/larissa-vidal/static/media/node.c6649cb118c1ede849ad.png",
+    "index.html": "/larissa-vidal/index.html",
+    "main.1712c1fe.css.map": "/larissa-vidal/static/css/main.1712c1fe.css.map",
+    "main.85bf2f30.js.map": "/larissa-vidal/static/js/main.85bf2f30.js.map",
+    "453.a3fab702.chunk.js.map": "/larissa-vidal/static/js/453.a3fab702.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1712c1fe.css",
+    "static/js/main.85bf2f30.js"
+  ]
+}
